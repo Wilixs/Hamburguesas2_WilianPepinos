@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Hamburguesa_WilianPepinos.Views.BurgerItemPage"
+             Title="BurgerItemPage">
+    <ScrollView>
+        <VerticalStackLayout Padding="20"
+ Spacing="10"
+VerticalOptions="StartAndExpand">
+            <Label Text="Nombre" />
+            <Entry x:Name="nameB" Text="{Binding Name}" />
+            <Label Text="Descripción" />
+            <Entry x:Name="descB" Text="{Binding Description}" />
+            <Label Text="¿Con queso extra?" />
+            <CheckBox x:Name="check"
+CheckedChanged="OnCheckBoxCheckedChanged" />
+            <Button Text="Guardar"
+ Clicked="OnSaveClicked" />
+            <Button Text="Cancelar"
+ Clicked="OnCancelClicked" />
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

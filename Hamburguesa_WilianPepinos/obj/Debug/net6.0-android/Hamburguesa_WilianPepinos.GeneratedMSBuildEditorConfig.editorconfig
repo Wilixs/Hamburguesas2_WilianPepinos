@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hamburguesa_WilianPepinos
+build_property.ProjectDir = C:\Users\Wilixs\Desktop\HOLA\Hamburguesa_WilianPepinos\Hamburguesa_WilianPepinos\
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/Views/BurgerItemPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.Views.BurgerItemPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BurgerItemPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BurgerItemPage.xaml
+
+[C:/Users/Wilixs/Desktop/HOLA/Hamburguesa_WilianPepinos/Hamburguesa_WilianPepinos/Views/BurgerListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Hamburguesa_WilianPepinos.Views.BurgerListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BurgerListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BurgerListPage.xaml
